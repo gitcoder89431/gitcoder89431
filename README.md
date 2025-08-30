@@ -1,8 +1,8 @@
-# gitcoder89431
+<div align="center">
+
+# **gitcoder89431**
 
 🤙 Vibe coding agent-native systems in Rust, AI orchestration, and declarative terminal UIs.
-
-<div align="center">
 
 <!-- Badges -->
   
