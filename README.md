@@ -2,7 +2,7 @@
 
 # **gitcoder89431**
 
-🤙 Vibe coding agent-native systems in Rust, AI orchestration, and declarative terminal UIs.
+🧠 | Spec-coding human thoughts into navigable constellations | 🌌
 
 <!-- Badges -->
   
